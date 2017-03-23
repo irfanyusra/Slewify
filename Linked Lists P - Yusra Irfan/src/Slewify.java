@@ -1,6 +1,6 @@
 
 /**
- *The "Start" class.
+ *The "Slewify" class.
  *Instructor: Mr. Sayed
  *Assignment Name: Slewify Program
  *Class: ICS 4U0-B
