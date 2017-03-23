@@ -1,3 +1,12 @@
+/**
+ *The "Song" class.
+ *Instructor: Mr. Sayed
+ *Assignment Name: Slewify Program
+ *Class: ICS 4U0-B
+ *@Author Yusra Irfan 
+ *@Version 1.1 
+ *Date of Submission: 16th May 2016
+ */
 public class Song
 {
 	//Stores the value for the information on the song.
